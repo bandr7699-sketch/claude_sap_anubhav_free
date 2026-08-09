@@ -2,6 +2,9 @@
 _out
 *.db
 *.sqlite
+*.sqlite-shm
+*.sqlite-wal
+db-export.sql
 connection.properties
 default-*.json
 .cdsrc-private.json

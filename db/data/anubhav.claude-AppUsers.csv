@@ -1,0 +1,13 @@
+ID;userName;email;fullName;role_code;isActive;lastLoginAt;traveller_ID;createdBy;createdAt;modifiedAt
+5956549c-3c04-4832-901e-5602ba55807b;sysadmin;sysadmin@travelapp.com;System Administrator;ADMIN;true;2026-08-08T10:15:00Z;;admin@travelapp.com;2025-01-10T09:00:00Z;2026-08-08T10:15:00Z
+fb8cb525-7507-47b7-bab5-279815b7651b;opsadmin;opsadmin@travelapp.com;Operations Administrator;ADMIN;true;2026-08-07T14:30:00Z;;admin@travelapp.com;2025-02-15T09:00:00Z;2026-08-07T14:30:00Z
+a794e189-e56c-4f77-8a31-8c8085f5d1e2;agent.smith;agent.smith@travelapp.com;Rebecca Smith;AGENT;true;2026-08-09T08:45:00Z;;admin@travelapp.com;2025-03-01T09:00:00Z;2026-08-09T08:45:00Z
+6e415b62-8056-475d-94b3-58720c966384;agent.khan;agent.khan@travelapp.com;Imran Khan;AGENT;true;2026-08-06T11:20:00Z;;admin@travelapp.com;2025-03-10T09:00:00Z;2026-08-06T11:20:00Z
+c79bc780-d5dd-4f2e-b5a5-6a613c9e85d7;agent.wong;agent.wong@travelapp.com;Sarah Wong;AGENT;false;2026-05-01T09:00:00Z;;admin@travelapp.com;2025-04-01T09:00:00Z;2026-05-01T09:00:00Z
+b76f4bc3-9a31-4c2f-b25e-d5db359a718c;arjun.sharma;arjun.sharma@gmail.com;Arjun Sharma;TRAVELLER;true;2026-08-09T07:00:00Z;287bdd09-a645-402a-8cdd-da62a3d796bf;agent.smith@travelapp.com;2025-03-12T09:15:00Z;2026-08-09T07:00:00Z
+057ff880-4dc0-4915-bec5-2f20334df128;emily.johnson;emily.johnson@gmail.com;Emily Johnson;TRAVELLER;true;2026-08-08T18:20:00Z;4687bbbd-e9e0-499c-ac29-b92fab56a638;admin@travelapp.com;2025-01-22T10:00:00Z;2026-08-08T18:20:00Z
+2c0c20b4-65ff-4f74-959f-c492e781790f;lukas.mueller;lukas.mueller@web.de;Lukas Müller;TRAVELLER;true;2026-08-07T20:05:00Z;34ff066f-cef0-4c16-b67e-cc679fae14d0;agent.khan@travelapp.com;2025-02-18T08:30:00Z;2026-08-07T20:05:00Z
+7512d47e-6b1e-4923-8b1c-d8a62f0ba895;yuki.tanaka;yuki.tanaka@gmail.com;Yuki Tanaka;TRAVELLER;false;2026-04-01T09:10:00Z;46c96eae-1857-4af3-a6f3-ad4a18852708;admin@travelapp.com;2025-04-05T11:00:00Z;2026-04-01T09:10:00Z
+c8a5b755-cd79-40df-a4af-402472397d78;priya.patel;priya.patel@gmail.com;Priya Patel;TRAVELLER;true;2026-08-09T06:40:00Z;02257338-563f-49e8-b6ff-81a288e24c38;agent.smith@travelapp.com;2024-11-30T09:20:00Z;2026-08-09T06:40:00Z
+d09f2567-7d0a-4d35-9aaa-7cd43abec6ac;michael.brown;michael.brown@gmail.com;Michael Brown;TRAVELLER;true;2026-08-06T21:15:00Z;615bfcf1-ab20-4c52-a8e2-514ba32e3ecd;admin@travelapp.com;2025-05-14T13:45:00Z;2026-08-06T21:15:00Z
+9797e9d8-9918-4041-a417-f6aa7f495a8b;claire.dubois;claire.dubois@gmail.fr;Claire Dubois;TRAVELLER;true;2026-08-08T22:00:00Z;de5978b5-579f-4676-860b-432c1e884140;agent.khan@travelapp.com;2025-03-29T10:10:00Z;2026-08-08T22:00:00Z

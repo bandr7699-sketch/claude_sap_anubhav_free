@@ -1,0 +1,11 @@
+ID;userName;firstName;lastName;gender;age;status_code;createdBy;createdAt;modifiedAt
+287bdd09-a645-402a-8cdd-da62a3d796bf;arjun.sharma;Arjun;Sharma;M;29;A;agent.smith@travelapp.com;2025-03-12T09:15:00Z;2026-07-20T11:30:00Z
+4687bbbd-e9e0-499c-ac29-b92fab56a638;emily.johnson;Emily;Johnson;F;34;A;admin@travelapp.com;2025-01-22T10:00:00Z;2026-06-15T09:45:00Z
+34ff066f-cef0-4c16-b67e-cc679fae14d0;lukas.mueller;Lukas;Müller;M;41;A;agent.khan@travelapp.com;2025-02-18T08:30:00Z;2026-05-10T14:20:00Z
+46c96eae-1857-4af3-a6f3-ad4a18852708;yuki.tanaka;Yuki;Tanaka;F;27;I;admin@travelapp.com;2025-04-05T11:00:00Z;2026-04-01T09:00:00Z
+02257338-563f-49e8-b6ff-81a288e24c38;priya.patel;Priya;Patel;F;52;A;agent.smith@travelapp.com;2024-11-30T09:20:00Z;2026-07-05T16:10:00Z
+615bfcf1-ab20-4c52-a8e2-514ba32e3ecd;michael.brown;Michael;Brown;M;45;A;admin@travelapp.com;2025-05-14T13:45:00Z;2026-06-28T12:00:00Z
+de5978b5-579f-4676-860b-432c1e884140;claire.dubois;Claire;Dubois;F;38;A;agent.khan@travelapp.com;2025-03-29T10:10:00Z;2026-07-18T15:30:00Z
+d0047ac5-30ae-449c-8142-a16d77f92111;minjun.kim;Minjun;Kim;M;24;I;agent.wong@travelapp.com;2025-06-02T09:00:00Z;2026-03-15T10:00:00Z
+499b0972-b8ee-4443-9bd3-31291960f71b;rohan.gupta;Rohan;Gupta;M;60;S;admin@travelapp.com;2024-09-17T08:00:00Z;2026-02-10T09:30:00Z
+58cfa1ba-644c-4688-9761-bca139a90357;giulia.rossi;Giulia;Rossi;F;31;P;agent.smith@travelapp.com;2026-07-01T09:00:00Z;2026-07-01T09:00:00Z
